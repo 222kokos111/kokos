@@ -6,6 +6,9 @@
 	<div style="text-align: center; color: #fff; font-size: 48px" id="countdown"></div>
 	<div style="text-align: center; color: #fff; font-size: 48px"><br>Karma is free. You will not have to pay for it ;)<br><br>Bank transactions take up to 4 working days, do not forget to check "Urgent" ;)</div>
 
+	<br>
+	<iframe width="600" height="340" src="https://www.youtube.com/embed/B3eAMGXFw1o" frameborder="0"></iframe>
+	
 	<script>
 	var before=""
 	var current="Merry Christmas!"
